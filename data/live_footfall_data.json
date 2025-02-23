@@ -1,0 +1,2005 @@
+{
+    "timestamp": "2025-02-22T18:42:27",
+    "stations": [
+        {
+            "station_name": "New Delhi",
+            "footfall": 4858,
+            "congestion_level": "High",
+            "entry_count": 1108,
+            "exit_count": 1269,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1914,
+            "congestion_level": "High",
+            "entry_count": 1874,
+            "exit_count": 2828,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1704,
+            "congestion_level": "High",
+            "entry_count": 922,
+            "exit_count": 2557,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2538,
+            "congestion_level": "High",
+            "entry_count": 670,
+            "exit_count": 1331,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2256,
+            "congestion_level": "High",
+            "entry_count": 1902,
+            "exit_count": 1840,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1085,
+            "congestion_level": "High",
+            "entry_count": 2344,
+            "exit_count": 938,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 3394,
+            "congestion_level": "High",
+            "entry_count": 1207,
+            "exit_count": 613,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 3816,
+            "congestion_level": "Medium",
+            "entry_count": 2840,
+            "exit_count": 2344,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1960,
+            "congestion_level": "Low",
+            "entry_count": 2090,
+            "exit_count": 1644,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1445,
+            "congestion_level": "Medium",
+            "entry_count": 1106,
+            "exit_count": 783,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 3862,
+            "congestion_level": "Medium",
+            "entry_count": 633,
+            "exit_count": 2766,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1784,
+            "congestion_level": "Low",
+            "entry_count": 2059,
+            "exit_count": 1760,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1453,
+            "congestion_level": "Low",
+            "entry_count": 1479,
+            "exit_count": 2827,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1909,
+            "congestion_level": "High",
+            "entry_count": 1849,
+            "exit_count": 2931,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1073,
+            "congestion_level": "High",
+            "entry_count": 659,
+            "exit_count": 1012,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1796,
+            "congestion_level": "High",
+            "entry_count": 521,
+            "exit_count": 2029,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1976,
+            "congestion_level": "Low",
+            "entry_count": 2461,
+            "exit_count": 2207,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2558,
+            "congestion_level": "Low",
+            "entry_count": 2089,
+            "exit_count": 2876,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 3360,
+            "congestion_level": "Medium",
+            "entry_count": 1279,
+            "exit_count": 1353,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1645,
+            "congestion_level": "High",
+            "entry_count": 1282,
+            "exit_count": 2191,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1643,
+            "congestion_level": "Low",
+            "entry_count": 1470,
+            "exit_count": 1184,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1960,
+            "congestion_level": "High",
+            "entry_count": 1047,
+            "exit_count": 1955,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2736,
+            "congestion_level": "High",
+            "entry_count": 2236,
+            "exit_count": 1324,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 4402,
+            "congestion_level": "Medium",
+            "entry_count": 1558,
+            "exit_count": 857,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2991,
+            "congestion_level": "High",
+            "entry_count": 1520,
+            "exit_count": 576,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 4306,
+            "congestion_level": "Low",
+            "entry_count": 1421,
+            "exit_count": 2496,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 4826,
+            "congestion_level": "Low",
+            "entry_count": 1738,
+            "exit_count": 872,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1516,
+            "congestion_level": "Medium",
+            "entry_count": 1114,
+            "exit_count": 2422,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 3115,
+            "congestion_level": "Medium",
+            "entry_count": 2469,
+            "exit_count": 1525,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2152,
+            "congestion_level": "Medium",
+            "entry_count": 2517,
+            "exit_count": 2936,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 4190,
+            "congestion_level": "Low",
+            "entry_count": 2046,
+            "exit_count": 1179,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1174,
+            "congestion_level": "Medium",
+            "entry_count": 1077,
+            "exit_count": 1900,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2660,
+            "congestion_level": "High",
+            "entry_count": 1783,
+            "exit_count": 2734,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2947,
+            "congestion_level": "Low",
+            "entry_count": 2212,
+            "exit_count": 958,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2171,
+            "congestion_level": "Medium",
+            "entry_count": 2324,
+            "exit_count": 1598,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1315,
+            "congestion_level": "Medium",
+            "entry_count": 2541,
+            "exit_count": 2387,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 4590,
+            "congestion_level": "Medium",
+            "entry_count": 1202,
+            "exit_count": 2898,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 4886,
+            "congestion_level": "Low",
+            "entry_count": 1260,
+            "exit_count": 1461,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 3082,
+            "congestion_level": "Medium",
+            "entry_count": 897,
+            "exit_count": 929,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1065,
+            "congestion_level": "Medium",
+            "entry_count": 857,
+            "exit_count": 1401,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 4887,
+            "congestion_level": "Low",
+            "entry_count": 2809,
+            "exit_count": 1871,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 3137,
+            "congestion_level": "High",
+            "entry_count": 1583,
+            "exit_count": 607,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2039,
+            "congestion_level": "Medium",
+            "entry_count": 2763,
+            "exit_count": 2600,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 4863,
+            "congestion_level": "Low",
+            "entry_count": 2967,
+            "exit_count": 1043,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2583,
+            "congestion_level": "High",
+            "entry_count": 1620,
+            "exit_count": 1607,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 3476,
+            "congestion_level": "Low",
+            "entry_count": 536,
+            "exit_count": 1756,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2314,
+            "congestion_level": "High",
+            "entry_count": 2500,
+            "exit_count": 718,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 1375,
+            "congestion_level": "Low",
+            "entry_count": 1453,
+            "exit_count": 665,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2866,
+            "congestion_level": "Medium",
+            "entry_count": 2012,
+            "exit_count": 507,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "New Delhi",
+            "footfall": 2126,
+            "congestion_level": "Low",
+            "entry_count": 2048,
+            "exit_count": 2889,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 3026,
+            "congestion_level": "High",
+            "entry_count": 2261,
+            "exit_count": 1396,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 2390,
+            "congestion_level": "High",
+            "entry_count": 2197,
+            "exit_count": 1399,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4530,
+            "congestion_level": "Low",
+            "entry_count": 2318,
+            "exit_count": 1347,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 2063,
+            "congestion_level": "High",
+            "entry_count": 1378,
+            "exit_count": 1738,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 3038,
+            "congestion_level": "Low",
+            "entry_count": 2337,
+            "exit_count": 2760,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 3003,
+            "congestion_level": "Medium",
+            "entry_count": 1951,
+            "exit_count": 1755,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4044,
+            "congestion_level": "Medium",
+            "entry_count": 1275,
+            "exit_count": 1602,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1286,
+            "congestion_level": "High",
+            "entry_count": 2180,
+            "exit_count": 638,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4527,
+            "congestion_level": "High",
+            "entry_count": 2044,
+            "exit_count": 650,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1358,
+            "congestion_level": "Low",
+            "entry_count": 1762,
+            "exit_count": 2411,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4082,
+            "congestion_level": "High",
+            "entry_count": 593,
+            "exit_count": 827,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1678,
+            "congestion_level": "Medium",
+            "entry_count": 2205,
+            "exit_count": 975,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 2763,
+            "congestion_level": "Medium",
+            "entry_count": 1486,
+            "exit_count": 739,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4862,
+            "congestion_level": "High",
+            "entry_count": 799,
+            "exit_count": 1706,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1419,
+            "congestion_level": "High",
+            "entry_count": 2969,
+            "exit_count": 811,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4470,
+            "congestion_level": "Medium",
+            "entry_count": 2550,
+            "exit_count": 1551,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4586,
+            "congestion_level": "High",
+            "entry_count": 840,
+            "exit_count": 1927,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1243,
+            "congestion_level": "Medium",
+            "entry_count": 1224,
+            "exit_count": 2772,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 3033,
+            "congestion_level": "Low",
+            "entry_count": 1945,
+            "exit_count": 2230,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 2906,
+            "congestion_level": "Low",
+            "entry_count": 2864,
+            "exit_count": 2922,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4939,
+            "congestion_level": "Medium",
+            "entry_count": 713,
+            "exit_count": 2179,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4845,
+            "congestion_level": "High",
+            "entry_count": 1964,
+            "exit_count": 1779,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1680,
+            "congestion_level": "High",
+            "entry_count": 2587,
+            "exit_count": 2416,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1581,
+            "congestion_level": "High",
+            "entry_count": 848,
+            "exit_count": 1385,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4304,
+            "congestion_level": "Low",
+            "entry_count": 1884,
+            "exit_count": 1460,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4558,
+            "congestion_level": "Low",
+            "entry_count": 755,
+            "exit_count": 1969,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1661,
+            "congestion_level": "Medium",
+            "entry_count": 1958,
+            "exit_count": 2736,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4931,
+            "congestion_level": "High",
+            "entry_count": 2967,
+            "exit_count": 2983,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4926,
+            "congestion_level": "High",
+            "entry_count": 1929,
+            "exit_count": 1726,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 2056,
+            "congestion_level": "Medium",
+            "entry_count": 783,
+            "exit_count": 1035,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 2369,
+            "congestion_level": "High",
+            "entry_count": 1643,
+            "exit_count": 2047,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 2753,
+            "congestion_level": "High",
+            "entry_count": 1766,
+            "exit_count": 1391,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4456,
+            "congestion_level": "Medium",
+            "entry_count": 2155,
+            "exit_count": 2986,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1575,
+            "congestion_level": "High",
+            "entry_count": 2228,
+            "exit_count": 2391,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4116,
+            "congestion_level": "Medium",
+            "entry_count": 2090,
+            "exit_count": 933,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 2141,
+            "congestion_level": "Medium",
+            "entry_count": 2165,
+            "exit_count": 2154,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1941,
+            "congestion_level": "Medium",
+            "entry_count": 2420,
+            "exit_count": 825,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4100,
+            "congestion_level": "Low",
+            "entry_count": 1851,
+            "exit_count": 2452,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4734,
+            "congestion_level": "High",
+            "entry_count": 893,
+            "exit_count": 2587,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 3858,
+            "congestion_level": "High",
+            "entry_count": 874,
+            "exit_count": 1107,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 3810,
+            "congestion_level": "High",
+            "entry_count": 787,
+            "exit_count": 1898,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4971,
+            "congestion_level": "Medium",
+            "entry_count": 2349,
+            "exit_count": 1363,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4848,
+            "congestion_level": "Medium",
+            "entry_count": 1035,
+            "exit_count": 1910,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1940,
+            "congestion_level": "High",
+            "entry_count": 653,
+            "exit_count": 1755,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 2242,
+            "congestion_level": "Medium",
+            "entry_count": 660,
+            "exit_count": 2477,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 1794,
+            "congestion_level": "High",
+            "entry_count": 800,
+            "exit_count": 2229,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4418,
+            "congestion_level": "Low",
+            "entry_count": 1082,
+            "exit_count": 2021,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4997,
+            "congestion_level": "High",
+            "entry_count": 2316,
+            "exit_count": 1733,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4580,
+            "congestion_level": "Low",
+            "entry_count": 1442,
+            "exit_count": 827,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Howrah",
+            "footfall": 4088,
+            "congestion_level": "High",
+            "entry_count": 2923,
+            "exit_count": 846,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2209,
+            "congestion_level": "Medium",
+            "entry_count": 2338,
+            "exit_count": 1137,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2525,
+            "congestion_level": "Medium",
+            "entry_count": 891,
+            "exit_count": 878,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4090,
+            "congestion_level": "Low",
+            "entry_count": 2391,
+            "exit_count": 2669,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1993,
+            "congestion_level": "Medium",
+            "entry_count": 1955,
+            "exit_count": 1534,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3354,
+            "congestion_level": "High",
+            "entry_count": 926,
+            "exit_count": 1081,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3465,
+            "congestion_level": "Medium",
+            "entry_count": 2696,
+            "exit_count": 2054,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4055,
+            "congestion_level": "Low",
+            "entry_count": 577,
+            "exit_count": 2654,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4231,
+            "congestion_level": "Medium",
+            "entry_count": 724,
+            "exit_count": 1172,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1089,
+            "congestion_level": "High",
+            "entry_count": 929,
+            "exit_count": 1056,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1593,
+            "congestion_level": "Low",
+            "entry_count": 922,
+            "exit_count": 1323,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2862,
+            "congestion_level": "Medium",
+            "entry_count": 1361,
+            "exit_count": 2119,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4066,
+            "congestion_level": "High",
+            "entry_count": 1646,
+            "exit_count": 833,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2140,
+            "congestion_level": "Medium",
+            "entry_count": 2902,
+            "exit_count": 1958,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1889,
+            "congestion_level": "Low",
+            "entry_count": 903,
+            "exit_count": 2201,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3435,
+            "congestion_level": "High",
+            "entry_count": 2480,
+            "exit_count": 926,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1101,
+            "congestion_level": "Low",
+            "entry_count": 1962,
+            "exit_count": 1168,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3930,
+            "congestion_level": "Medium",
+            "entry_count": 1617,
+            "exit_count": 2281,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2217,
+            "congestion_level": "High",
+            "entry_count": 1556,
+            "exit_count": 811,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4542,
+            "congestion_level": "Medium",
+            "entry_count": 2142,
+            "exit_count": 1550,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4585,
+            "congestion_level": "Medium",
+            "entry_count": 2821,
+            "exit_count": 543,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1408,
+            "congestion_level": "Medium",
+            "entry_count": 2660,
+            "exit_count": 1829,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3351,
+            "congestion_level": "High",
+            "entry_count": 2316,
+            "exit_count": 899,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4874,
+            "congestion_level": "Low",
+            "entry_count": 1408,
+            "exit_count": 1435,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4292,
+            "congestion_level": "Medium",
+            "entry_count": 2924,
+            "exit_count": 1191,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2488,
+            "congestion_level": "Low",
+            "entry_count": 645,
+            "exit_count": 1478,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1073,
+            "congestion_level": "High",
+            "entry_count": 1443,
+            "exit_count": 1631,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2495,
+            "congestion_level": "Medium",
+            "entry_count": 1011,
+            "exit_count": 1348,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1319,
+            "congestion_level": "Low",
+            "entry_count": 2910,
+            "exit_count": 2957,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2754,
+            "congestion_level": "Medium",
+            "entry_count": 2453,
+            "exit_count": 1952,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2111,
+            "congestion_level": "Medium",
+            "entry_count": 2055,
+            "exit_count": 2324,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2089,
+            "congestion_level": "Medium",
+            "entry_count": 1469,
+            "exit_count": 1825,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4692,
+            "congestion_level": "High",
+            "entry_count": 1234,
+            "exit_count": 2295,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1116,
+            "congestion_level": "High",
+            "entry_count": 1556,
+            "exit_count": 2757,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1334,
+            "congestion_level": "Medium",
+            "entry_count": 1374,
+            "exit_count": 508,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4224,
+            "congestion_level": "High",
+            "entry_count": 1449,
+            "exit_count": 2606,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4680,
+            "congestion_level": "Low",
+            "entry_count": 2504,
+            "exit_count": 1123,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3257,
+            "congestion_level": "High",
+            "entry_count": 1799,
+            "exit_count": 1920,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3280,
+            "congestion_level": "Low",
+            "entry_count": 1808,
+            "exit_count": 2459,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2863,
+            "congestion_level": "High",
+            "entry_count": 1916,
+            "exit_count": 2868,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3192,
+            "congestion_level": "Medium",
+            "entry_count": 935,
+            "exit_count": 573,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3562,
+            "congestion_level": "Medium",
+            "entry_count": 1356,
+            "exit_count": 1319,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3483,
+            "congestion_level": "High",
+            "entry_count": 1001,
+            "exit_count": 1621,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2346,
+            "congestion_level": "High",
+            "entry_count": 1438,
+            "exit_count": 2545,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1190,
+            "congestion_level": "Low",
+            "entry_count": 2346,
+            "exit_count": 1388,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2059,
+            "congestion_level": "High",
+            "entry_count": 730,
+            "exit_count": 1436,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3426,
+            "congestion_level": "High",
+            "entry_count": 983,
+            "exit_count": 1258,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 4716,
+            "congestion_level": "Medium",
+            "entry_count": 783,
+            "exit_count": 632,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 1877,
+            "congestion_level": "High",
+            "entry_count": 604,
+            "exit_count": 898,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 3567,
+            "congestion_level": "Medium",
+            "entry_count": 774,
+            "exit_count": 1833,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Mumbai CST",
+            "footfall": 2346,
+            "congestion_level": "Low",
+            "entry_count": 648,
+            "exit_count": 951,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2301,
+            "congestion_level": "High",
+            "entry_count": 2961,
+            "exit_count": 940,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3031,
+            "congestion_level": "Low",
+            "entry_count": 1623,
+            "exit_count": 582,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2080,
+            "congestion_level": "Medium",
+            "entry_count": 1355,
+            "exit_count": 1915,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3012,
+            "congestion_level": "Low",
+            "entry_count": 1938,
+            "exit_count": 2251,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2519,
+            "congestion_level": "High",
+            "entry_count": 504,
+            "exit_count": 1192,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 4757,
+            "congestion_level": "Medium",
+            "entry_count": 1309,
+            "exit_count": 1467,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3976,
+            "congestion_level": "Low",
+            "entry_count": 1351,
+            "exit_count": 2544,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1688,
+            "congestion_level": "Low",
+            "entry_count": 2457,
+            "exit_count": 2169,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2540,
+            "congestion_level": "Low",
+            "entry_count": 2763,
+            "exit_count": 720,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3893,
+            "congestion_level": "High",
+            "entry_count": 1218,
+            "exit_count": 2861,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3445,
+            "congestion_level": "Low",
+            "entry_count": 2759,
+            "exit_count": 1889,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 4878,
+            "congestion_level": "Medium",
+            "entry_count": 2384,
+            "exit_count": 2976,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 4142,
+            "congestion_level": "High",
+            "entry_count": 2661,
+            "exit_count": 2660,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1447,
+            "congestion_level": "High",
+            "entry_count": 531,
+            "exit_count": 1713,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3381,
+            "congestion_level": "Medium",
+            "entry_count": 1851,
+            "exit_count": 948,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1286,
+            "congestion_level": "Low",
+            "entry_count": 1812,
+            "exit_count": 1917,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2895,
+            "congestion_level": "Low",
+            "entry_count": 1243,
+            "exit_count": 1063,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2066,
+            "congestion_level": "Medium",
+            "entry_count": 1333,
+            "exit_count": 2904,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1565,
+            "congestion_level": "Low",
+            "entry_count": 548,
+            "exit_count": 1149,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 4775,
+            "congestion_level": "Low",
+            "entry_count": 1052,
+            "exit_count": 2958,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3197,
+            "congestion_level": "Low",
+            "entry_count": 1746,
+            "exit_count": 1953,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2113,
+            "congestion_level": "High",
+            "entry_count": 886,
+            "exit_count": 1725,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1944,
+            "congestion_level": "Medium",
+            "entry_count": 565,
+            "exit_count": 2144,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3515,
+            "congestion_level": "High",
+            "entry_count": 1239,
+            "exit_count": 1340,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3339,
+            "congestion_level": "High",
+            "entry_count": 2561,
+            "exit_count": 2300,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1998,
+            "congestion_level": "High",
+            "entry_count": 1906,
+            "exit_count": 2693,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2321,
+            "congestion_level": "High",
+            "entry_count": 1801,
+            "exit_count": 1078,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3352,
+            "congestion_level": "Low",
+            "entry_count": 1615,
+            "exit_count": 648,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 4455,
+            "congestion_level": "Low",
+            "entry_count": 2594,
+            "exit_count": 2417,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2234,
+            "congestion_level": "High",
+            "entry_count": 2425,
+            "exit_count": 2295,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3717,
+            "congestion_level": "High",
+            "entry_count": 2281,
+            "exit_count": 1352,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2149,
+            "congestion_level": "Medium",
+            "entry_count": 726,
+            "exit_count": 2751,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1183,
+            "congestion_level": "High",
+            "entry_count": 2957,
+            "exit_count": 2315,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1887,
+            "congestion_level": "Medium",
+            "entry_count": 2361,
+            "exit_count": 2002,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3244,
+            "congestion_level": "Medium",
+            "entry_count": 2930,
+            "exit_count": 2454,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 4258,
+            "congestion_level": "High",
+            "entry_count": 2707,
+            "exit_count": 950,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1896,
+            "congestion_level": "Low",
+            "entry_count": 786,
+            "exit_count": 561,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3823,
+            "congestion_level": "High",
+            "entry_count": 2766,
+            "exit_count": 1264,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3121,
+            "congestion_level": "High",
+            "entry_count": 1855,
+            "exit_count": 988,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1160,
+            "congestion_level": "Medium",
+            "entry_count": 2646,
+            "exit_count": 1823,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2239,
+            "congestion_level": "Low",
+            "entry_count": 1749,
+            "exit_count": 2248,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 4177,
+            "congestion_level": "Medium",
+            "entry_count": 1258,
+            "exit_count": 849,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 2132,
+            "congestion_level": "Low",
+            "entry_count": 1147,
+            "exit_count": 1067,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1868,
+            "congestion_level": "Low",
+            "entry_count": 2359,
+            "exit_count": 1436,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1587,
+            "congestion_level": "High",
+            "entry_count": 1805,
+            "exit_count": 2390,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3813,
+            "congestion_level": "Medium",
+            "entry_count": 1433,
+            "exit_count": 1890,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 1757,
+            "congestion_level": "Medium",
+            "entry_count": 2790,
+            "exit_count": 515,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 4808,
+            "congestion_level": "High",
+            "entry_count": 1948,
+            "exit_count": 893,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3410,
+            "congestion_level": "Medium",
+            "entry_count": 1909,
+            "exit_count": 2746,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Chennai Central",
+            "footfall": 3098,
+            "congestion_level": "Medium",
+            "entry_count": 2890,
+            "exit_count": 838,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3781,
+            "congestion_level": "High",
+            "entry_count": 1238,
+            "exit_count": 969,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4059,
+            "congestion_level": "Low",
+            "entry_count": 784,
+            "exit_count": 2931,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4031,
+            "congestion_level": "High",
+            "entry_count": 1067,
+            "exit_count": 846,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1714,
+            "congestion_level": "High",
+            "entry_count": 1330,
+            "exit_count": 2650,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1169,
+            "congestion_level": "Low",
+            "entry_count": 2848,
+            "exit_count": 2652,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4568,
+            "congestion_level": "Medium",
+            "entry_count": 1833,
+            "exit_count": 2639,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4267,
+            "congestion_level": "Medium",
+            "entry_count": 2152,
+            "exit_count": 2578,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4148,
+            "congestion_level": "High",
+            "entry_count": 1384,
+            "exit_count": 1487,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3212,
+            "congestion_level": "High",
+            "entry_count": 2836,
+            "exit_count": 2944,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3222,
+            "congestion_level": "Low",
+            "entry_count": 2899,
+            "exit_count": 2150,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3465,
+            "congestion_level": "High",
+            "entry_count": 1957,
+            "exit_count": 3000,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4449,
+            "congestion_level": "Low",
+            "entry_count": 2708,
+            "exit_count": 648,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1192,
+            "congestion_level": "Medium",
+            "entry_count": 2834,
+            "exit_count": 2098,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1846,
+            "congestion_level": "Medium",
+            "entry_count": 1569,
+            "exit_count": 2891,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4367,
+            "congestion_level": "Medium",
+            "entry_count": 837,
+            "exit_count": 1475,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2757,
+            "congestion_level": "Low",
+            "entry_count": 1862,
+            "exit_count": 2225,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2422,
+            "congestion_level": "Medium",
+            "entry_count": 2010,
+            "exit_count": 2805,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2412,
+            "congestion_level": "High",
+            "entry_count": 2223,
+            "exit_count": 2190,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4235,
+            "congestion_level": "Low",
+            "entry_count": 1857,
+            "exit_count": 2160,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2092,
+            "congestion_level": "Low",
+            "entry_count": 1013,
+            "exit_count": 1815,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4228,
+            "congestion_level": "Medium",
+            "entry_count": 2504,
+            "exit_count": 1514,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4346,
+            "congestion_level": "Low",
+            "entry_count": 2269,
+            "exit_count": 786,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1757,
+            "congestion_level": "Medium",
+            "entry_count": 568,
+            "exit_count": 1685,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3085,
+            "congestion_level": "Low",
+            "entry_count": 2922,
+            "exit_count": 2126,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1260,
+            "congestion_level": "Medium",
+            "entry_count": 654,
+            "exit_count": 1837,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1864,
+            "congestion_level": "High",
+            "entry_count": 1435,
+            "exit_count": 2066,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4185,
+            "congestion_level": "High",
+            "entry_count": 1186,
+            "exit_count": 2246,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3985,
+            "congestion_level": "Medium",
+            "entry_count": 539,
+            "exit_count": 1675,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2057,
+            "congestion_level": "Low",
+            "entry_count": 556,
+            "exit_count": 938,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1851,
+            "congestion_level": "Medium",
+            "entry_count": 1118,
+            "exit_count": 2805,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4650,
+            "congestion_level": "Low",
+            "entry_count": 877,
+            "exit_count": 583,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2301,
+            "congestion_level": "Low",
+            "entry_count": 955,
+            "exit_count": 2930,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2548,
+            "congestion_level": "Low",
+            "entry_count": 2303,
+            "exit_count": 532,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3862,
+            "congestion_level": "Low",
+            "entry_count": 1871,
+            "exit_count": 2848,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1466,
+            "congestion_level": "Low",
+            "entry_count": 2238,
+            "exit_count": 2539,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3409,
+            "congestion_level": "High",
+            "entry_count": 891,
+            "exit_count": 2177,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2693,
+            "congestion_level": "High",
+            "entry_count": 2057,
+            "exit_count": 2705,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4276,
+            "congestion_level": "Medium",
+            "entry_count": 2829,
+            "exit_count": 586,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4492,
+            "congestion_level": "Low",
+            "entry_count": 2747,
+            "exit_count": 2612,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2079,
+            "congestion_level": "Medium",
+            "entry_count": 2458,
+            "exit_count": 1182,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4048,
+            "congestion_level": "High",
+            "entry_count": 1371,
+            "exit_count": 2753,
+            "peak_hours": "Night"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2608,
+            "congestion_level": "Low",
+            "entry_count": 1730,
+            "exit_count": 1100,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2436,
+            "congestion_level": "Medium",
+            "entry_count": 2813,
+            "exit_count": 1630,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3049,
+            "congestion_level": "Medium",
+            "entry_count": 966,
+            "exit_count": 1883,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4441,
+            "congestion_level": "Low",
+            "entry_count": 2369,
+            "exit_count": 1733,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4034,
+            "congestion_level": "Medium",
+            "entry_count": 2114,
+            "exit_count": 2078,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 4392,
+            "congestion_level": "Medium",
+            "entry_count": 2981,
+            "exit_count": 1468,
+            "peak_hours": "Evening"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 2440,
+            "congestion_level": "Low",
+            "entry_count": 1926,
+            "exit_count": 553,
+            "peak_hours": "Afternoon"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 3436,
+            "congestion_level": "Low",
+            "entry_count": 2309,
+            "exit_count": 2257,
+            "peak_hours": "Morning"
+        },
+        {
+            "station_name": "Bangalore City",
+            "footfall": 1372,
+            "congestion_level": "Medium",
+            "entry_count": 1504,
+            "exit_count": 2622,
+            "peak_hours": "Afternoon"
+        }
+    ]
+}
